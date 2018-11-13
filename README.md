@@ -1,2 +1,2 @@
-# Optimizing React
-A bunch of demo apps for the "Optimizing React" presentation
+# React Faster
+A bunch of demo apps for a React performance presentation
